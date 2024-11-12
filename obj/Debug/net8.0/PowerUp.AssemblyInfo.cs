@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf1127ca61b4061e3f7d5b1e4e3b3eb14a6dee25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84a4a4478a45ff9067b8f06628bb22303eab6ff1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

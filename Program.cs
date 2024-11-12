@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "PowerUp",
+        Title = "PowerUp - .NET 8.0",
         Version = "v1",
         Description = 
             "Ellie de Oliveira\n" +
@@ -24,7 +24,7 @@ builder.Services.AddSwaggerGen(options =>
             "RM: 553233\n",
         License = new OpenApiLicense
         {
-            Name = "PowerUp - .NET 8.0",
+            Name = "PowerUp",
             Url = new Uri("https://www.fiap.com.br/")
         }
     });
