@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PowerUp.Models
 {
     [Table("recompensa_config")]  // Mapeando para a tabela 'recompensa_config'
-    public class RecompensaConfig
+    public class RecompensaConfigModel
     {
         [Key]  // Define que esta é a chave primária
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]  // Valor gerado automaticamente (auto-incremento)
