@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PowerUp.Models
 {
     [Table("usuario")]  // Mapeando para a tabela 'usuario'
-    public class Usuario
+    public class UsuarioModel
     {
         [Key]  // Define que esta é a chave primária
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]  // Valor gerado automaticamente (auto-incremento)
@@ -28,6 +28,6 @@ namespace PowerUp.Models
         public int? RankingId { get; set; }  // Usamos int? para permitir valor nulo (caso o Ranking não seja obrigatório)
 
         // Propriedade de navegação para Ranking
-        public Ranking Ranking { get; set; }
+        public RankingModel Ranking { get; set; }
     }
 }

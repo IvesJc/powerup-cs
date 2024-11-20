@@ -21,7 +21,7 @@ namespace PowerUp.Models
         // Relacionamento com RecompensaTipo (Chave estrangeira 'recompensa_tipo_id')
         [Required]  // Campo obrigatório
         [ForeignKey("RecompensaTipoId")]  // Define que a chave estrangeira é a propriedade 'RecompensaTipoId'
-        public RecompensaTipo RecompensaTipo { get; set; }
+        public RecompensaTipoModel RecompensaTipo { get; set; }
 
         // Propriedade de Chave Estrangeira
         public int RecompensaTipoId { get; set; }

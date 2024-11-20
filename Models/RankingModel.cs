@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PowerUp.Models
 {
     [Table("ranking")]  // Mapeando para a tabela 'ranking'
-    public class Ranking
+    public class RankingModel
     {
         [Key]  // Define que esta é a chave primária
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]  // Valor gerado automaticamente (auto-incremento)

@@ -17,7 +17,7 @@ namespace PowerUp.Models
         // Relacionamento com Usuario (Chave estrangeira 'usuario_id')
         [Required]  // Campo obrigatório
         [ForeignKey("UsuarioId")]  // Define que a chave estrangeira é a propriedade 'UsuarioId'
-        public Usuario Usuario { get; set; }
+        public UsuarioModel Usuario { get; set; }
 
         // Propriedade de Chave Estrangeira
         public int UsuarioId { get; set; }

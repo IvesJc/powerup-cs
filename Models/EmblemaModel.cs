@@ -12,7 +12,7 @@ namespace PowerUp.Models
 
         // Relacionamento com Usuario (Chave estrangeira 'usuario_id')
         [ForeignKey("UsuarioId")]
-        public Usuario Usuario { get; set; }
+        public UsuarioModel Usuario { get; set; }
 
         public int UsuarioId { get; set; }  // Chave estrangeira para 'Usuario'
 

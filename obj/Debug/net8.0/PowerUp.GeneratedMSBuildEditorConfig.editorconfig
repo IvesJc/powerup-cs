@@ -17,31 +17,31 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PowerUp
 build_property.RootNamespace = PowerUp
-build_property.ProjectDir = C:\Users\labsfiap\Desktop\powerup-cs\PowerUp\PowerUp\
+build_property.ProjectDir = D:\C#Projects\powerup-cs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\labsfiap\Desktop\powerup-cs\PowerUp\PowerUp
+build_property.MSBuildProjectDirectory = D:\C#Projects\powerup-cs
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/labsfiap/Desktop/powerup-cs/PowerUp/PowerUp/Views/Home/Index.cshtml]
+[D:/C\#Projects/powerup-cs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/powerup-cs/PowerUp/PowerUp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/C\#Projects/powerup-cs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/powerup-cs/PowerUp/PowerUp/Views/_ViewImports.cshtml]
+[D:/C\#Projects/powerup-cs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/powerup-cs/PowerUp/PowerUp/Views/_ViewStart.cshtml]
+[D:/C\#Projects/powerup-cs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/powerup-cs/PowerUp/PowerUp/Views/Shared/_Layout.cshtml]
+[D:/C\#Projects/powerup-cs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-07ruwykbfp
