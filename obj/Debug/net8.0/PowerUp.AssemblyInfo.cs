@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e0b9921669d139873a4b5aa0775c48f64889a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec3ead95756c06e716c82609ecba9ec099c1398")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
